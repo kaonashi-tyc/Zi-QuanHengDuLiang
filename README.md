@@ -10,7 +10,7 @@ Below is a sample page from the original 《权衡度量实验考》:
 
 ## Production
 
-All characters are generated in 256x256 resolution, traced with Potrace then compiled with FontForge. The entire production took approximately 10 days, including model training time.
+All characters are generated in 256x256 resolution, traced with Potrace then compiled with FontForge. The entire production took approximately 5 days, including model training time.
 
 ## Samples
 
