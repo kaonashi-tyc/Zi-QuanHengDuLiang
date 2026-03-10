@@ -1,6 +1,6 @@
 # 权衡度量体 (QuanHengDuLiang-Jian)
 
-A Chinese calligraphy font based on handwritten characters from the Qing Dynasty text 《权衡度量实验考》. The font was created by extracting 338 characters from the original book and using zi2zi-JiT to generate the full GB2312 character set (6763 characters).
+A Chinese calligraphy font based on handwritten characters from the Qing Dynasty text 《权衡度量实验考》. The font was created by extracting 338 characters from the original book and using [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) to generate the full GB2312 character set (6763 characters).
 
 Below is a sample page from the original 《权衡度量实验考》:
 
